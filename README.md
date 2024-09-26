@@ -1,1 +1,3 @@
-# lowest_risk_aircraft_phase1_project
+# Project to Determine the Lowest Risk Aircraft
+
+## Project Goal
