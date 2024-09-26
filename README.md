@@ -20,6 +20,24 @@ Data comes from Kaggle detailing <a href="https://www.kaggle.com/datasets/khsama
 
 ### Data Analysis
 
+I used 14 columns for my analysis which included:
+1. The make of the aircraft
+2. Model of the aircraft
+3. Weather condition
+4. Number of fatalities and survivors
+5. Phase of the flight when an accident occured
+6. Created a column for survival rate
+
+### Findings
+
+From my analysis:
+
+1. Cessna, Piper and Peech Makes are the most accident prone aircrafts.
+2. Most accidents happen under VMC weather conditions when the plane is in cruise mode.
+3. Cessna and Piper aircraft models make up the top 20 aircrafts that have been involved in accidents.
+4. Anchorage, Alaska tops in the number of accidents per location.
+
+
 ## Conclusion
 
 goals, data, methods, and results
