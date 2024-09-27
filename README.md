@@ -64,6 +64,6 @@ Proportion of Injuries by Weather Condition
 
 ## Conclusion / Next Steps
 
-Deep dive analysis need to be done to look at the finer details of some of the findings such as why Cessna and Piper are the most aciident prone aircrafts.
+Deep dive analysis need to be done to look at the finer details of some of the findings such as why Cessna and Piper are the most accident prone aircrafts.
 
 All in all, the best bet for aircraft Make while starting a commercial passenger airline would be Boeing, Lockeed, Airbus, Embraer, McDonnell or Bombardier. 
