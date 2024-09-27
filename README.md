@@ -1,4 +1,4 @@
-# Project to Determine the Lowest Risk Aircraft
+# Project to Determine Risks in Aviation Based on Aircraft Accident Data
 
 ## Overview
 
@@ -36,8 +36,34 @@ From my analysis:
 2. Most accidents happen under VMC weather conditions when the plane is in cruise mode.
 3. Cessna and Piper aircraft models make up the top 20 aircrafts that have been involved in accidents.
 4. Anchorage, Alaska tops in the number of accidents per location.
+5. 1980's had the most fatalities yet.
+6. Lockeed, Airbus, Boeing, Embraer, McDonnell and Bombardier offer the best survival rate for commercial passenger aircrafts i.e. aircrafts with 50 passengers and above.
+
+Below are links for the vizualization of relationships between different metrics in the aviation accidents.
 
 
-## Conclusion
+#Interactive Dashboard - Accident Data Aircraft Metrics
+#Proportion of Fatalities by Phase of Flight
+#Total Injuries by Make of Aircraft
+Proportion of Injuries by Weather Condition
+#Total Injuries Per Year
+#Total Injuries by Aircraft Category
 
-goals, data, methods, and results
+<a href="https://public.tableau.com/app/profile/henry.kemboi/viz/Dashboard-AccidentDataAircraftMetrics/LowestRiskAircraft" target="_blank">Interactive Dashboard - Accident Data Aircraft Metrics</a>
+
+<a href="https://public.tableau.com/app/profile/henry.kemboi/viz/ProportionofFatalitiesbyPhaseofFlight/ProportionofFatalitiesbyPhaseofFlight" target="_blank">Proportion of Fatalities by Phase of Flight</a>
+
+<a href="https://public.tableau.com/app/profile/henry.kemboi/viz/TotalInjuriesbyMakeofAircraft/TotalInjuriesbyMakeofAircraft" target="_blank">Total Injuries by Make of Aircraft</a>
+
+<a href="https://public.tableau.com/app/profile/henry.kemboi/viz/ProportionofInjuriesbyWeatherCondition/ProportionofInjuriesbyWeatherCondition?publish=yes" target="_blank">Proportion of Injuries by Weather Condition</a>
+
+<a href="https://public.tableau.com/app/profile/henry.kemboi/viz/TotalInjuriesbyAircraftCategory/TotalInjuriesbyAircraftCategory" target="_blank">Total Injuries Per Year</a>
+
+<a href="https://public.tableau.com/app/profile/henry.kemboi/viz/TotalInjuriesbyAircraftCategory/TotalInjuriesbyAircraftCategory" target="_blank">Total Injuries by Aircraft Category</a>
+
+
+## Conclusion / Next Steps
+
+Deep dive analysis need to be done to look at the finer details of some of the findings such as why Cessna and Piper are the most aciident prone aircrafts.
+
+All in all, the best bet for aircraft Make while starting a commercial passenger airline would be Boeing, Lockeed, Airbus, Embraer, McDonnell or Bombardier. 
