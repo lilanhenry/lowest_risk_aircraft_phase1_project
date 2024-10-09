@@ -42,12 +42,12 @@ From my analysis:
 Below are links for the vizualization of relationships between different metrics in the aviation accidents.
 
 
-#Interactive Dashboard - Accident Data Aircraft Metrics
-#Proportion of Fatalities by Phase of Flight
-#Total Injuries by Make of Aircraft
-Proportion of Injuries by Weather Condition
-#Total Injuries Per Year
-#Total Injuries by Aircraft Category
+#### Interactive Dashboard - Accident Data Aircraft Metrics
+#### Proportion of Fatalities by Phase of Flight
+#### Total Injuries by Make of Aircraft
+#### Proportion of Injuries by Weather Condition
+#### Total Injuries Per Year
+#### Total Injuries by Aircraft Category
 
 <a href="https://public.tableau.com/app/profile/henry.kemboi/viz/Dashboard-AccidentDataAircraftMetrics/LowestRiskAircraft" target="_blank">Interactive Dashboard - Accident Data Aircraft Metrics</a>
 
